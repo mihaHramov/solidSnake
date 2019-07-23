@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Solidsnake</string>
+    <string name="action_settings">Settings</string>
+    <string name="base_url">http://adm.solidsnake.club/</string>
+    <string name="facebook_app_id">463064844494193</string>
+    <string name="facebook_login_protocol_scheme">fb463064844494193</string>
+    <string name="yandex_app_id">4829203e-9c32-40f7-9d1f-11cf7d822672</string>
+    <string name="base_ref">test_ref.com</string>
+    <string name="app_flyer_id" >T5LCtd4kVJQJ2pmWgvuAmd</string>
+    <string name="mock_server_answer" >"[" +
+                    "{\"goal\":\"fd\"," +
+                    "\"offerid\":\"val offeridl\"," +
+                    "\"status\":\"val status\"," +
+                    "\"currency\":\"val currency\"," +
+                    "\"pid\":\"val pid\"," +
+                    "\"depsum\":3.3," +
+                    "\"sum\":2.3" + "}," +
+                    "{\"goal\":\"reg\"," +
+                    "\"offerid\":\"val offeridl\"," +
+                    "\"status\":\"status val\"," +
+                    "\"currency\":\"val currency\"," +
+                    "\"pid\":\"val pid\"," +
+                    "\"depsum\":3.3," +
+                    "\"sum\":2.3" + "}," +
+                    "{\"goal\":\"dep\"," +
+                    "\"offerid\":\"val offeridl\"," +
+                    "\"status\":\" val status\"," +
+                    "\"currency\":\"val currency\"," +
+                    "\"pid\":\" val pid\"," +
+                    "\"depsum\":3.3," +
+                    "\"sum\":2.3" +
+                    "}" +
+                    "]"</string>
+    <string name="mock_server_answer1" >
+        [{"goal":"fd","offerid":"offeridl","status":"st","currency":"val","pid":"val","depsum":3.3,"sum":2.3}]</string>
+    <string name="find_email_reg">([a-z0-9_.-]+)@([a-z0-9_.-]+[a-z])</string>
+</resources>
